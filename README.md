@@ -3,7 +3,7 @@
 ## latihan 1
 ![Screenshot (200)](https://screenshot/screenshot 1.png)
 ## latihan 2
-![Screenshot (201)](https://github.com/Maullynn/praktikum3/assets/144296695/7923c9a7-73df-40f7-ade3-940bd151173f)
+![Screenshot (201)](https://screenshot/Screenshot 2.png)
 ## latihan3
 ![Screenshot (203)](https://github.com/Maullynn/praktikum3/assets/144296695/ef2973d7-5684-4e98-bb5c-1d8ee7a4f8e9)
 
