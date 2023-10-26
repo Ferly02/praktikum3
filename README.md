@@ -3,9 +3,9 @@
 ## latihan 1
 <img src = "screenshot/screenshot 1.png">
 ## latihan 2
-img src https://screenshot/Screenshot 2.png
+<img src = "screenshot/Screenshot 2.png">
 ## latihan3
-img src https://screenshot/Screenshot 3.png
+<img src = "screenshot/Screenshot 3.png">
 
 -membuat belah ketupat
 ## command 
